@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <footer className="footer">
       <div className="footer-content">
-        <img src="assets\images\logo1.png" alt="Credenza Logo" className="footer-logo"/>
+        <img src="assets\images\logo1.png" alt="Credenza Logo" className="footer-logo" height="80px" width="238px" />
         <nav className="footer-nav">
           <a href="/">Home</a>
           <a href="/about">About us</a>
