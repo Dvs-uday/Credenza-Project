@@ -20,17 +20,17 @@
   width: 100%;
   max-width: 350px; 
   margin: 0 auto; 
-  gap: 1rem;
+  
 }
 
 .hero-form input {
   width: 335px; 
   height: 40px; 
   padding: 10px 34px 10px 10px;
-  gap: 0px;
+
   border-radius: 8px;
   border: 1px solid #ccc;
-  opacity: 1;
+
 }
 
 .hero-form button {
@@ -71,8 +71,7 @@ h1 {
   text-align: center;
   width: 755px;
   height: 57px;
-  gap: 0px;
-  opacity: 1; /* Set to 1 to make it visible */
+
 }
 
 .span1 {
@@ -93,8 +92,7 @@ h1 {
   text-align: center;
   width: 656px;
   height: 70px;
-  gap: 0px;
-  opacity: 1; 
+ 
 }
 
 .hero-image
@@ -103,10 +101,7 @@ h1 {
 height: 200%;
 top: 467px;
 left: 112px;
-gap: 0px;
 border: 1px 0px 0px 0px;
-opacity: 0px;
-
 }
 
 .para
